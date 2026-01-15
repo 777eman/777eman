@@ -14,9 +14,8 @@
 
 ---
 
-### 🌸 My Creative Toolkit
-### 🔥 Toolkit / Currently Learning
-### 🔥 Toolkit / Currently Learning
+### 🌸 My Creative Toolkit / Currently Learning
+
 ![React](https://img.shields.io/badge/-React-00D1FF?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06FFA5?style=for-the-badge&logo=tailwind-css&logoColor=black)
@@ -27,6 +26,9 @@
 ![AI Automation](https://img.shields.io/badge/-AI%20Automation%20📚-39FF14?style=for-the-badge&logo=robot-framework&logoColor=black)
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX%20📚-FF2D55?style=for-the-badge&logo=figma&logoColor=white)
 ---
+### 🔍 Next Step / Currently Exploring
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### ✨ Projects I'm Proud Of
 | Project | Tech Stack |
@@ -41,10 +43,6 @@
 
 ---
 
-### 💌 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/eman-samir-el-hosany-8317372a3)
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=flat&logo=gmail&logoColor=white)](mailto:emanwe968@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-FF69B4?style=flat&logo=telegram&logoColor=white)](https://t.me/@EmanDev25)
 ### 💬 Contact With Me / Let's Neon!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](www.linkedin.com/in/eman-samir-el-hosany-8317372a3)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF24FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanwe968@gmail.com)
