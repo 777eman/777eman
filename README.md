@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<!-- <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
@@ -98,5 +98,90 @@ class About extends Me {
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
+<!-- </div> -->
+ -->
+ <div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :    </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=777eman&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F777eman&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eman_Samir-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eman-samir-el-hosany-8317372a3) <br>
 </div>
+
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+```javascript
+// My Tech Stack & Tools [cite: 9, 32, 33]
+
+const emanSkills = { 
+    "Frontend": ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"], [cite: 9, 32]
+    "Backend": ["Laravel", "PHP"], [cite: 9, 33, 16]
+    "CurrentlyLearning": ["UI/UX Design"], [cite: 11, 17, 24, 35]
+    "Other": ["Python GUI", "Software Testing", "Git"] [cite: 18, 23, 28, 34, 36]
+};
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently learning UI/UX Design to enhance user experiences.  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I enjoy building responsive and dynamic web applications. 
+
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about React, Laravel, or Frontend Development. 
+
+
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Reach me via Email: emanwe968@gmail.com 
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: I'm a student at We School for Applied Technology. 
+
+
+<div align="center" > <a href="https://github.com/777eman">
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D777eman%26show_icons%3Dtrue%26theme%3Dnord" width="48%"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D777eman%26layout%3Dcompact%26theme%3Dnord" width="48%">
+
+</a>
+
+<hr></hr>
+
+Code Cycle
+
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Bug hunting!"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/>
+
+</div>
+
+
+
 
