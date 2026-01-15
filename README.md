@@ -25,11 +25,18 @@ Remote-ready **React Frontend Developer** & Laravel enthusiast.
 ---
 
 ### 🔥 Featured Projects
-| Project | Tech | Live Demo |
-|--------|------|-----------|
-| **E-Commerce Store** | React, Tailwind, Laravel API | [Demo](https://your-demo-link.com) |
-| **Weather Dashboard** | React, OpenWeather API | [Demo](https://your-demo-link.com) |
-| **Task Manager (Desktop)** | Python, Tkinter | [Repo](https://github.com/777eman/task-manager) |
+
+| Project              | Tech Stack                   |
+|----------------------|------------------------------|
+| **E-Commerce Store** | React, Tailwind, Laravel API |
+| **Security-Camera**  | React                        |
+| **Task Manager**     | Python, Tkinter              |
+|**HeadPhons**         | HTML , CSS , Js              |
+|**HeadPhons**         | Rect                         |
+|**Security-Camera**   | HTML , CSS , Js              |
+|**Reaturant**         | HTML , CSS , Js              |
+|**Pizza Delivary**    | HTML , CSS , Js              |
+
 
 ---
 
