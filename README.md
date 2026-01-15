@@ -23,13 +23,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1B9CFC?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![AI Automation](https://img.shields.io/badge/-AI%20Automation%20📚-39FF14?style=for-the-badge&logo=robot-framework&logoColor=black)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX%20📚-FF2D55?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 ### 🔍 Next Step / Currently Exploring
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![AI Automation](https://img.shields.io/badge/-AI%20Automation%20📚-39FF14?style=for-the-badge&logo=robot-framework&logoColor=black)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX%20📚-FF2D55?style=for-the-badge&logo=figma&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+-----------
 ### ✨ Projects I'm Proud Of
 | Project | Tech Stack |
 |---------|------------|
