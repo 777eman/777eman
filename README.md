@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Girly Hello-World GIF -->
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&center=true&width=600&height=60&lines=Hello+World🌸;I'm+Eman+💕;React⚡" alt="Hello World GIF"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&center=true&width=600&height=60&lines=Hello+World👀;I'm+Eman+💕;React⚡" alt="Hello World GIF"/>
 
-### 💖 Hi there! I'm Eman Samir ✨  
+###  Hi there! I'm Eman Samir ✨  
 **Creative FullStack Developer** crafting beautiful & responsive experiences
 
 <!-- GitHub Stats -->
@@ -56,6 +56,6 @@
   <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=ffc0cb,ffb6c1,ff69b4&height=80&section=footer"/>
 <br>
-✨ Thanks for visiting! ✨
+ Thanks for visiting! ✨
 </div>
 </div>
