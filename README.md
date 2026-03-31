@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&center=true&width=600&height=60&lines=Hello+World🌸;I'm+Eman+💕;React⚡" alt="Hello World GIF"/>
 
 ### 💖 Hi there! I'm Eman Samir ✨  
-**Creative Frontend Developer** crafting beautiful & responsive experiences
+**Creative FullStack Developer** crafting beautiful & responsive experiences
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=777eman&show_icons=true&theme=react&hide_border=true" width="55%"/>
