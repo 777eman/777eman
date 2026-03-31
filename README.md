@@ -50,6 +50,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](www.linkedin.com/in/eman-samir-el-hosany-8317372a3)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF24FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanwe968@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-39FF14?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/@EmanDev25)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201014811769)
 <!-- Footer Wave -->
 <div align="center">
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=ffc0cb,ffb6c1,ff69b4&height=80&section=footer"/> -->
